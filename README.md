@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FernandezPabloGabriel
-- 👀 I’m interested in videogames, geology, programming and cybersecurity
+- 👀 I’m interested in videogames, geology, psychology, programming and cybersecurity
 - 🌱 I’m currently learning Web Development, specifically React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pf93520@gmail.com
