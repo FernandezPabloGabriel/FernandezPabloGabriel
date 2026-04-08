@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandezPabloGabriel
 - 👀 I’m interested in programming, IA, CI/CD and cybersecurity
-- 🌱 I’m currently learning Web Development, specifically React
+- 🌱 I’m currently learning AI and DevOps practices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pf93520@gmail.com
 
